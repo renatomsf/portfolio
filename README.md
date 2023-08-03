@@ -1,3 +1,3 @@
-# Portifólio
+# Portfolio
 
-Neste repositório estão alguns notebooks onde exercito minhas habilidades como cientista de dados. Me baseio em duas competições do Kaggle (Titanic e House Prices) e também deixo aqui um exercício que me propus baseado em um dataset que busca elucidar a relação entre desempenho escolar e fatores sociais. 
+In this repository, there are some notebooks where I practice my skills as a data scientist. I rely on two Kaggle competitions (Titanic and House Prices) and also include an exercise that I undertook based on a dataset that seeks to elucidate the relationship between academic performance and social factors.
