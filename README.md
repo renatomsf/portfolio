@@ -1,6 +1,7 @@
 # Meu portfólio
 
 Olá, meu nome é Renato Maia. Faço bacharelado em Ciência de Dados da Univesp, mas possuo uma trajetória acadêmica multidisciplinar, passando pela Biologia, Física, Matemática e até mesmo Filosofia.  
+
 Venho estudado Ciência de Dados desde 2022 com o objetivo de alavancar minha transição de carreira.  
   
 Neste repositório estão alguns projetos que escolhi para ilustrar minhas habilidades relacionadas a programação, manipulação e análise de dados e machine learning. Confesso que está um pouco desatualizado e não reflete a maturidade e aprofundamento que adquiri nos últimos meses. Entretanto, estou trabalhando num novo projeto e até o dia 13/10/2023 vou carregá-lo aqui.  
