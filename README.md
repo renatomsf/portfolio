@@ -1,8 +1,6 @@
 # Meu portfólio
 
-Olá, meu nome é Renato Maia. Atualmente faço bacharelado em Ciência de Dados da Univesp, mas possuo uma trajetória acadêmica multidisciplinar, passando pela Biologia, Física, Matemática e até mesmo Filosofia.  
-
-Venho estudado Ciência de Dados como autodidata desde 2022. Neste último ano fiz dois cursos, li um bocado, aprendi com o projeto de outras pessoas na comunidade Kaggle e venho trabalhado em meus próprios projetos. Neste repositório estão alguns projetos que escolhi para ilustrar minhas habilidades relacionadas a programação e ciência de dados. 
+Olá, meu nome é Renato Maia. Faço bacharelado em Ciência de Dados na Univesp e trabalho em um projeto de iniciação científica no Hub de Inteligência Artificial e Arquiteturas Cognitivas na Unicamp. Deixo aqui alguns notebooks onde tento mostrar um pouco da minha trajetória como cientista de dados.
 
 ## Projetos
 
